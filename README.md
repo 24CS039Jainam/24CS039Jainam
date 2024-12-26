@@ -34,8 +34,11 @@ problems.
 ## Skills
 
 💻 Programming Languages: C/C++, Python
+
 🌐 Web Development: HTML5, CSS, Bootstrap
+
 🛠️ Tools: Git, VS Code, Figma
+
 📦 Frameworks: Basic understanding of React
 
 ## Projects
