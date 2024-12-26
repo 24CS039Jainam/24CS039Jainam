@@ -103,7 +103,10 @@ Achieved 2nd runner-up in the AINACS General Knowledge Olympiad, demonstrating s
 ## Contact Me
 
 📧 Email: jainamkhetani@gmail.com / 24cs039@charusat.edu.in
+
 🔗 LinkedIn: https://www.linkedin.com/in/jainam-khetani/
+
 🐦 Twitter: https://x.com/JKhetani15615
+
 
 Feel free to connect with me or reach out for collaboration opportunities! I'm always open to learning and sharing ideas...😊
