@@ -3,18 +3,32 @@
 ## About Me
 
 🎓First-year undergraduate student at CSPIT - CHARUSAT, pursuing a degree in B.Tech-CSE.
+
 🌱 Currently learning data structures, algorithms, and web development.
+
 💡 Interested in IoT, competitive programming, and exploring emerging technologies.
+
 🤝 Open to collaborating on projects where I can gain real-life experience and learn teamwork and problem-solving skills.
-🎯 Aiming to build a strong foundation in computer science while contributing to impactful projects that solve real-world problems.
+
+🎯 Aiming to build a strong foundation in computer science while contributing to impactful projects that solve real-world 
+problems.
+
 💻 Actively exploring tools, technologies, and programming languages like C++, and Java to enhance my skills.
+
 🌐 Enthusiastic about contributing to open-source projects and gaining community-driven experience.
+
 📚 Eager to participate in hackathons, coding challenges, and tech meetups to expand my network and knowledge.
+
 🚀 Dreaming of becoming a skilled software developer and making a meaningful impact in the tech world.
+
 ✍️ Enjoy learning through hands-on practice, tutorials, and building small personal projects to grow consistently.
+
 🌱 Passionate about continuous learning and staying updated with the latest industry trends and innovations.
+
 🎶 Music enthusiast: Share your love for playing an instrument or listening to music.
+
 📸 Passionate about photography: Mention your knack for capturing moments.
+
 ⚽ Sports lover: If you play or follow any sports, it’s worth noting.
 
 ## Skills
