@@ -98,6 +98,7 @@ Achieved 2nd runner-up in the AINACS General Knowledge Olympiad, demonstrating s
 ## Future Goals
 
 🚀 I aim to become a versatile software developer with expertise in AI/ML 🤖 and IoT 🌐, contributing to impactful projects that solve real-world problems.
+
 🔍 Excited to explore opportunities in product development 💡 and research 🔬, where I can innovate and make a meaningful contribution to the tech world.
 
 ## Contact Me
