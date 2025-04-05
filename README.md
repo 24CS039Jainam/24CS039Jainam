@@ -107,7 +107,7 @@ Achieved 2nd runner-up in the AINACS General Knowledge Olympiad, demonstrating s
 
 🔗 LinkedIn: https://www.linkedin.com/in/jainam-khetani/
 
-🐦 Twitter: https://x.com/JKhetani15615
+🐦 Twitter: https://x.com/Jainam_Khetani
 
 
 Feel free to connect with me or reach out for collaboration opportunities! I'm always open to learning and sharing ideas...😊
